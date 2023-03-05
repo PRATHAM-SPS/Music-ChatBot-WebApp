@@ -1,1 +1,3 @@
 # Music-ChatBot
+
+A music recommending chatbot is an AI-powered system designed to provide personalized music recommendations to users based on their preferences and listening history. The chatbot uses machine learning algorithms to analyze users' listening habits and generate recommendations based on factors such as genre, mood, tempo, and artist similarity. Users can interact with the chatbot through messaging platforms or voice assistants, and provide feedback on the recommended music to refine future suggestions. A music recommending chatbot provides a convenient and personalized way for users to discover new music and expand their listening experience.
